@@ -1,0 +1,1 @@
+One key thing I've learned so far in this course is how to use Git and GitHub for version control and collaboration. I now understand how to clone repositories, make changes, and push updates online.
